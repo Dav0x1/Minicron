@@ -1,0 +1,3 @@
+11:30:ls | wc | wc | wc:1
+13:55:ls -l | wc:1
+13:56:ls -l | wc | grep 1:1
